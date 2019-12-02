@@ -1,0 +1,4 @@
+*.bin
+*.optim
+__pycache__/*
+*.pdf

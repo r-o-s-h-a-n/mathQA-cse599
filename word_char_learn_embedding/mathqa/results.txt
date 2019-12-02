@@ -1,0 +1,12 @@
+TODO:
+1. Implement the saving of models after every 10 epochs     - done
+2. Check the code for BLEU score     - done
+3. Add the code for plotting    - done
+4. Check if you can parallelize code on multiple GPU's -- UserWarning: RNN module weights are not part of single contiguous chunk of memory. This means they need to be compacted at every call, possibly greatly increasing memory usage. To compact weights again call flatten_parameters().
+
+Word to character models:
+1. Encoder - bidirectional LSTM, 1 layer, Decoder - unidirectional LSTM, 1 layer, BLEU = 47.2
+2. Encoder - bidirectional LSTM, 2 layer, Decoder - unidirectional LSTM, 1 layer, BLEU = 
+3. Encoder - bidirectional LSTM, 4 layer, Decoder - unidirectional LSTM, 1 layer, BLEU = 46.8
+4. Encoder - bidirectional LSTM, 6 layer, Decoder - unidirectional LSTM, 1 layer, BLEU = 
+5. Encoder - bidirectional LSTM, 8 layer, Decoder - unidirectional LSTM, 1 layer, BLEU = 46.0
