@@ -4,4 +4,4 @@ This repository contains code for translating math word problems to annotated fo
 
 MathQA [dataset](https://math-qa.github.io/math-QA/) and [paper](https://arxiv.org/pdf/1905.13319.pdf) 
 
-This project was completed as part of the final project for University of Washington CSE 599 Deep Learning taught by Professor Ali Farhadi.
+This project was completed as part of the final project for University of Washington CSE 599 Deep Learning taught by Professor Ali Farhadi. The project poster and write up are also stored in this repository and is a good place to start to understand the goal and method of the project.
